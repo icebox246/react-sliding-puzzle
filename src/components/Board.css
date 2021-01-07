@@ -1,0 +1,6 @@
+.board {
+  position: relative;
+  filter: drop-shadow(rgb(34, 34, 34) 0 0 30px);
+  flex-shrink: 0;
+  margin: 10px;
+}
